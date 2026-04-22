@@ -48,7 +48,7 @@ fashion-classifier/
 ## 1. Clone Repository
 
 ```
-git clone https://github.com/yourusername/fashion-classifier.git
+git clone https://github.com/arun2544/Fashion-Attribute-Classification-App.git
 cd fashion-classifier
 ```
 
